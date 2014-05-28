@@ -1,0 +1,116 @@
+*{font-family:sans-serif;}
+body {
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	text-align: right;
+	font-size: 20px;
+}
+
+h2 {
+	top:10px;
+	text-align:center;
+	padding:10px 100px 10px 10px
+
+}
+
+
+h3 {
+	position:fixed;
+	text-align:center;
+	padding:10px 100px 10px 10px
+}
+
+
+.BuenosAires {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px;
+	position:relative;
+
+}
+
+.p1 {
+	font-size: 222px;
+	position:absolute;
+	top:200px;
+	right:0px;
+}
+
+.CapeTown {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+.Jerusalem {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+.Stellenbosch {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+.Tokyo {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+.Cambridge {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+.NeurEliya {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+.DC {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+.Rome {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+
+.London {
+	height:80px;
+	width:80px;
+	padding:0px 100px 10px 10px
+}
+
+footer {
+	background-color: black;
+	}
+
+.twitter {
+
+	width:50px;
+	height:50px;
+	padding:250px 100px 10px 10px;
+	float:left;
+}
+
+.hp {
+
+	width:50px;
+	height:50px;
+	padding:250px 102px 12px 12px;
+	float:left;
+
+}
